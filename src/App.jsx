@@ -10,7 +10,6 @@ function App() {
       <div className='w-[90%] mx-auto'>
       <Navbar></Navbar>
       <Outlet></Outlet>
-      <h1>React</h1>
       <Footer></Footer>
       </div>
       

@@ -1,0 +1,146 @@
+[
+  {
+    "image": "/demo-app1.webp",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Labs",
+    "id": 1,
+    "description": "Organize your tasks efficiently and boost your productivity with TaskMaster Pro.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "image": "/demo-app2.webp",
+    "title": "FitTrack",
+    "companyName": "HealthTech Inc.",
+    "id": 2,
+    "description": "Track your workouts, steps, and health progress with FitTrack.",
+    "size": 60,
+    "reviews": 2300,
+    "ratingAvg": 4.2,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "/demo-app3.webp",
+    "title": "PhotoMagic",
+    "companyName": "Creative Apps",
+    "id": 3,
+    "description": "Enhance and edit your photos with AI-powered tools and filters.",
+    "size": 75,
+    "reviews": 3400,
+    "ratingAvg": 4.7,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2190 }
+    ]
+  },
+  {
+    "image": "/demo-app4.webp",
+    "title": "MoneyWise",
+    "companyName": "Finance Hub",
+    "id": 4,
+    "description": "Manage your budget and track expenses effortlessly with MoneyWise.",
+    "size": 50,
+    "reviews": 1800,
+    "ratingAvg": 4.1,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "/demo-app5.webp",
+    "title": "TravelMate",
+    "companyName": "Wanderlust Co.",
+    "id": 5,
+    "description": "Plan your trips, book hotels, and discover destinations with TravelMate.",
+    "size": 80,
+    "reviews": 2700,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "image": "/demo-app6.webp",
+    "title": "CookBook Deluxe",
+    "companyName": "KitchenTech",
+    "id": 6,
+    "description": "Explore thousands of recipes and cooking tips with CookBook Deluxe.",
+    "size": 65,
+    "reviews": 1500,
+    "ratingAvg": 4.3,
+    "downloads": 85000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "/demo-app6.webp",
+    "title": "Mindful Meditation",
+    "companyName": "Zen Apps",
+    "id": 7,
+    "description": "Relax and reduce stress with guided meditation and mindfulness exercises.",
+    "size": 55,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1020 }
+    ]
+  },
+  {
+    "image": "/demo-app6.webp",
+    "title": "GameZone",
+    "companyName": "FunPlay Studios",
+    "id": 8,
+    "description": "Play exciting games, challenge friends, and enjoy endless fun on GameZone.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.8,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3220 }
+    ]
+  }
+]

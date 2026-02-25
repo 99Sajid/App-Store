@@ -5,10 +5,10 @@ import heroimg from '../../assets/hero.png'
 const HomeBanner = () => {
     return (
         <div>
-        <div className="hero bg-base-200 min-h-screen">
+        <div className="hero herohead bg-base-200">
   <div className="pt-4 text-center">
     <div className="max-w-md">
-      <h1 className="text-4xl font-bold">We Build <br></br><span className='text-blue-300'>Product App</span></h1>
+      <h1 className="text-4xl font-bold">We Build <br></br><span className='text-purple-500'>Productive</span> Apps</h1>
       <p className="py-6">
         Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
         quasi. In deleniti eaque aut repudiandae et a id nisi.
@@ -23,7 +23,7 @@ const HomeBanner = () => {
     
   </div>
 </div>
-<div className='bg-blue-600 w-full text-center p-4'>
+<div className='herofoot bg-purple-600 w-full text-center p-4'>
 <div><h1 className='text-2xl font-bold text-white'>Trusted By Million, Build For You</h1></div>
 <div className='flex gap-6 text-xs text-white justify-center p-4'>
 <div>

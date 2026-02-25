@@ -14,8 +14,8 @@ const Navbar = () => {
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow text-lg">
             <Link to='./' className="btn btn-ghost">Home</Link>
-            <a  className="btn btn-ghost">Apps</a>
-            <a  className="btn btn-ghost">Installation</a>
+            <Link to='/app' className="btn btn-ghost">Apps</Link>
+            <Link to='/Installation' className="btn btn-ghost">Installation</Link>
 
       </ul>
     </div>
@@ -26,8 +26,8 @@ const Navbar = () => {
   <div className="navbar-center">
   <ol className="hidden md:flex gap-5 text-xs font-semibold">
             <Link to='./'  className="btn btn-ghost">Home</Link>
-            <a  className="btn btn-ghost">Apps</a>
-            <a  className="btn btn-ghost">Installation</a>
+            <Link to='/app'  className="btn btn-ghost">Apps</Link>
+            <Link to='/Installation' className="btn btn-ghost">Installation</Link>
   </ol>
     
   </div>

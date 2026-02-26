@@ -1,0 +1,363 @@
+[
+  {
+    "image": "/demo-app1.webp",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Labs",
+    "id": 1,
+    "description": "Organize your tasks efficiently and boost your productivity with TaskMaster Pro.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "image": "/demo-app2.webp",
+    "title": "FitTrack",
+    "companyName": "HealthTech Inc.",
+    "id": 2,
+    "description": "Track your workouts, steps, and health progress with FitTrack.",
+    "size": 60,
+    "reviews": 2300,
+    "ratingAvg": 4.2,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 800 }
+    ]
+  },
+  {
+    "image": "/demo-app3.webp",
+    "title": "PhotoMagic",
+    "companyName": "Creative Apps",
+    "id": 3,
+    "description": "Enhance and edit your photos with AI-powered tools and filters.",
+    "size": 75,
+    "reviews": 3400,
+    "ratingAvg": 4.7,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2190 }
+    ]
+  },
+  {
+    "image": "/demo-app4.webp",
+    "title": "MoneyWise",
+    "companyName": "Finance Hub",
+    "id": 4,
+    "description": "Manage your budget and track expenses effortlessly with MoneyWise.",
+    "size": 50,
+    "reviews": 1800,
+    "ratingAvg": 4.1,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "/demo-app5.webp",
+    "title": "TravelMate",
+    "companyName": "Wanderlust Co.",
+    "id": 5,
+    "description": "Plan your trips, book hotels, and discover destinations with TravelMate.",
+    "size": 80,
+    "reviews": 2700,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "image": "/demo-app6.webp",
+    "title": "CookBook Deluxe",
+    "companyName": "KitchenTech",
+    "id": 6,
+    "description": "Explore thousands of recipes and cooking tips with CookBook Deluxe.",
+    "size": 65,
+    "reviews": 1500,
+    "ratingAvg": 4.3,
+    "downloads": 85000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "/demo-app6.webp",
+    "title": "Mindful Meditation",
+    "companyName": "Zen Apps",
+    "id": 7,
+    "description": "Relax and reduce stress with guided meditation and mindfulness exercises.",
+    "size": 55,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1020 }
+    ]
+  },
+  {
+    "image": "/demo-app6.webp",
+    "title": "GameZone",
+    "companyName": "FunPlay Studios",
+    "id": 8,
+    "description": "Play exciting games, challenge friends, and enjoy endless fun on GameZone.",
+    "size": 120,
+    "reviews": 5000,
+    "ratingAvg": 4.8,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3220 }
+    ]
+  },
+
+{
+  "image": "/demo-app6.webp",
+  "title": "StudyBuddy",
+  "companyName": "EduSmart Ltd.",
+  "id": 9,
+  "description": "Your smart companion for notes, flashcards, and exam preparation.",
+  "size": 48,
+  "reviews": 1900,
+  "ratingAvg": 4.3,
+  "downloads": 110000,
+  "ratings": [
+    { "name": "1 star", "count": 60 },
+    { "name": "2 star", "count": 70 },
+    { "name": "3 star", "count": 300 },
+    { "name": "4 star", "count": 700 },
+    { "name": "5 star", "count": 770 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "DailyNews 24",
+  "companyName": "Global Media",
+  "id": 10,
+  "description": "Stay updated with breaking news from around the world.",
+  "size": 52,
+  "reviews": 2600,
+  "ratingAvg": 4.0,
+  "downloads": 140000,
+  "ratings": [
+    { "name": "1 star", "count": 150 },
+    { "name": "2 star", "count": 120 },
+    { "name": "3 star", "count": 500 },
+    { "name": "4 star", "count": 900 },
+    { "name": "5 star", "count": 930 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "CryptoTrack",
+  "companyName": "FinTech Labs",
+  "id": 11,
+  "description": "Track real-time cryptocurrency prices and market trends.",
+  "size": 70,
+  "reviews": 3200,
+  "ratingAvg": 4.4,
+  "downloads": 210000,
+  "ratings": [
+    { "name": "1 star", "count": 90 },
+    { "name": "2 star", "count": 110 },
+    { "name": "3 star", "count": 400 },
+    { "name": "4 star", "count": 1200 },
+    { "name": "5 star", "count": 1400 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "SleepWell",
+  "companyName": "Healthify",
+  "id": 12,
+  "description": "Improve your sleep cycle with relaxing sounds and tracking tools.",
+  "size": 58,
+  "reviews": 1700,
+  "ratingAvg": 4.5,
+  "downloads": 98000,
+  "ratings": [
+    { "name": "1 star", "count": 45 },
+    { "name": "2 star", "count": 60 },
+    { "name": "3 star", "count": 250 },
+    { "name": "4 star", "count": 600 },
+    { "name": "5 star", "count": 745 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "WeatherNow",
+  "companyName": "SkyTech",
+  "id": 13,
+  "description": "Get accurate weather forecasts and live storm alerts.",
+  "size": 42,
+  "reviews": 2800,
+  "ratingAvg": 4.2,
+  "downloads": 175000,
+  "ratings": [
+    { "name": "1 star", "count": 130 },
+    { "name": "2 star", "count": 140 },
+    { "name": "3 star", "count": 500 },
+    { "name": "4 star", "count": 900 },
+    { "name": "5 star", "count": 1130 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "LanguageLeap",
+  "companyName": "LinguaTech",
+  "id": 14,
+  "description": "Learn new languages with interactive lessons and quizzes.",
+  "size": 85,
+  "reviews": 4100,
+  "ratingAvg": 4.7,
+  "downloads": 320000,
+  "ratings": [
+    { "name": "1 star", "count": 70 },
+    { "name": "2 star", "count": 60 },
+    { "name": "3 star", "count": 300 },
+    { "name": "4 star", "count": 1200 },
+    { "name": "5 star", "count": 2470 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "MovieStream",
+  "companyName": "Streamify Inc.",
+  "id": 15,
+  "description": "Watch trending movies and TV shows anytime, anywhere.",
+  "size": 150,
+  "reviews": 6200,
+  "ratingAvg": 4.6,
+  "downloads": 450000,
+  "ratings": [
+    { "name": "1 star", "count": 120 },
+    { "name": "2 star", "count": 100 },
+    { "name": "3 star", "count": 500 },
+    { "name": "4 star", "count": 1800 },
+    { "name": "5 star", "count": 3680 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "RideNow",
+  "companyName": "Urban Mobility",
+  "id": 16,
+  "description": "Book rides instantly and travel safely across the city.",
+  "size": 90,
+  "reviews": 5400,
+  "ratingAvg": 4.1,
+  "downloads": 390000,
+  "ratings": [
+    { "name": "1 star", "count": 300 },
+    { "name": "2 star", "count": 250 },
+    { "name": "3 star", "count": 800 },
+    { "name": "4 star", "count": 1500 },
+    { "name": "5 star", "count": 2550 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "ShopEasy",
+  "companyName": "RetailHub",
+  "id": 17,
+  "description": "Shop your favorite products online with amazing deals.",
+  "size": 110,
+  "reviews": 7200,
+  "ratingAvg": 4.5,
+  "downloads": 600000,
+  "ratings": [
+    { "name": "1 star", "count": 200 },
+    { "name": "2 star", "count": 180 },
+    { "name": "3 star", "count": 900 },
+    { "name": "4 star", "count": 2200 },
+    { "name": "5 star", "count": 3720 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "CodeMaster",
+  "companyName": "DevLabs",
+  "id": 18,
+  "description": "Learn programming with interactive coding challenges.",
+  "size": 95,
+  "reviews": 3100,
+  "ratingAvg": 4.8,
+  "downloads": 270000,
+  "ratings": [
+    { "name": "1 star", "count": 40 },
+    { "name": "2 star", "count": 30 },
+    { "name": "3 star", "count": 200 },
+    { "name": "4 star", "count": 900 },
+    { "name": "5 star", "count": 1930 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "MusicWave",
+  "companyName": "SoundSphere",
+  "id": 19,
+  "description": "Stream millions of songs and create your own playlists.",
+  "size": 130,
+  "reviews": 4800,
+  "ratingAvg": 4.4,
+  "downloads": 520000,
+  "ratings": [
+    { "name": "1 star", "count": 150 },
+    { "name": "2 star", "count": 120 },
+    { "name": "3 star", "count": 600 },
+    { "name": "4 star", "count": 1600 },
+    { "name": "5 star", "count": 2330 }
+  ]
+},
+{
+  "image": "/demo-app6.webp",
+  "title": "SecureVault",
+  "companyName": "CyberSafe",
+  "id": 20,
+  "description": "Protect your files and passwords with advanced encryption.",
+  "size": 66,
+  "reviews": 2100,
+  "ratingAvg": 4.6,
+  "downloads": 160000,
+  "ratings": [
+    { "name": "1 star", "count": 55 },
+    { "name": "2 star", "count": 40 },
+    { "name": "3 star", "count": 220 },
+    { "name": "4 star", "count": 700 },
+    { "name": "5 star", "count": 1085 }
+  ]
+}
+]

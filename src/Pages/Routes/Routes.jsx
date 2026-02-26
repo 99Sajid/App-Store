@@ -5,10 +5,12 @@ import { RouterProvider } from "react-router/dom";
 import Home from '../../Body/Home'
 import Apps from '../Apps/Apps'
 import Installation from '../Installation/Installation';
+import ErrorsPage from '../ErrorHandle/ErrorHandle'
 export const router = createBrowserRouter([
   {
     path: "/",
     element: <App></App>,
+    
      children: [
       {  index: true,
         path: "/",
@@ -16,11 +18,16 @@ export const router = createBrowserRouter([
         Component: Home,},
        {
         path:"/app",
+        loader: ()=>fetch('/AllAppData.json'),
         Component:Apps,
        },
        {
         path:"/Installation",
         Component:Installation,
+       },
+       {
+        path:'*',
+        Component:ErrorsPage,
        },
   
     ]

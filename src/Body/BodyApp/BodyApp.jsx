@@ -13,7 +13,9 @@ const BodyApp = ({loderData}) => {
                 loderData.map((app)=><Appp key={app.id} app={app}></Appp>)
             }
             </div>
-                        <Link to='/App' className='btn text-xl font-bold text-center'>Show All</Link>
+            <div className='text-center mt-8'>
+            <Link to='/App' className='btn text-xl font-bold bg-purple-600'>Show All</Link>
+            </div>
 
         </div>
     );

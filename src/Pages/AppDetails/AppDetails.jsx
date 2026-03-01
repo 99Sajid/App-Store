@@ -30,7 +30,7 @@ const AppDetails = () => {
     
    
     return (
-        <div className='w-full bg-base-200'>
+        <div className='w-[95%] mx-auto bg-base-200'>
         <div className=' p-4 '>
        <div className='flex gap-4 py-8 border-b border-gray-200'>
        <div><img src={AppDetailsData.image} className='min-h-full'></img></div>

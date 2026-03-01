@@ -9,7 +9,7 @@ const Footer = () => {
        <div className='w-[90%] mx-auto'>
         <div className='flex justify-between p-2 text-sm'>
         <div className='flex gap-2 items-center ml-2'>
-        <img src='/src/assets/logo.png' alt='' className='w-5 h-5'></img>
+        <img src='/logo.png' alt='' className='w-5 h-5'></img>
     <a className=" font-semibold">HERO.IO</a>
         </div>
         <div >

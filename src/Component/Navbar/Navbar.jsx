@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaGithub } from "react-icons/fa";
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 const Navbar = () => {
     return (
         <div className="">
@@ -19,20 +19,20 @@ const Navbar = () => {
 
       </ul>
     </div>
-    <img src='/src/assets/logo.png' alt='' className='w-5 h-5'></img>
+    <img src='/logo.png' alt='' className='w-5 h-5'></img>
     <a className=" text-xl font-bold">HERO.IO</a>
   </div>
  
   <div className="navbar-center">
   <ol className="hidden md:flex gap-5 text-xs font-semibold">
-            <Link to='./'  className="btn btn-ghost">Home</Link>
-            <Link to='/app'  className="btn btn-ghost">Apps</Link>
-            <Link to='/Installation' className="btn btn-ghost">Installation</Link>
+           <NavLink to="/" className={({ isActive }) => `btn btn-ghost ${isActive ? "border-b-2 border-b-black" : ""}`}>Home</NavLink>
+           <NavLink to="/app" className={({ isActive }) => `btn btn-ghost ${isActive ? "border-b-2 border-b-black" : ""}`}>App</NavLink>
+           <NavLink to="/Installation" className={({ isActive }) => `btn btn-ghost ${isActive ? "border-b-2 border-b-black" : ""}`}>Installation</NavLink>
   </ol>
     
   </div>
   <div className='navbar-end'>
-  <Link to={'https://github.com/99Sajid/sj99'} className="btn ml-2 ">
+  <Link to={'https://github.com/99Sajid/sj99'} target="_blank" className="btn ml-2 ">
   <span>
 <FaGithub className="text-xl" /></span>Contribute</Link>
   </div>

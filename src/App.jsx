@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <div className='w-[90%] mx-auto'>
+      <div className='w-full'>
       <Navbar></Navbar>
       {navigation.state === "loading" && (
         <div className="text-center py-4">
